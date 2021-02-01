@@ -1,0 +1,21 @@
+[
+    {
+        "name": "UniswapPoolKit",
+        "description": "This KIT allows trader to invest with one side asset directly on Uniswap and as well sell at once their Uniswap pool token",
+        "image": "https://github.com/DexKit/kits/blob/main/docs/images/UniswapPoolKit.png",
+        "status": "NOT_READY"
+    },
+    {
+        "name": "SushiPoolKit",
+        "description": "This KIT allows trader to invest with one side asset directly on Sushi and as well sell at once their Uniswap pool token",
+        "image": "https://github.com/DexKit/kits/blob/main/docs/images/SushiPoolKit.png",
+        "status": "NOT_READY"
+    },
+    {
+        "name": "AaveConvertKit",
+        "description": "This KIT allows trader to swap and convert directly asset to Aave collateral or withdraw Aave collateral and swap to other asset ",
+        "image": "https://github.com/DexKit/kits/blob/main/docs/images/AaveConvertKit.png",
+        "status": "NOT_READY"
+    }
+
+]
